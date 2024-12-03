@@ -5,9 +5,9 @@ My Pronouns are She / Her, I'm a computer science major at University Pacific (J
 
 I have a passion for video games and video game development even though I don't have the most time for it..
 
-Slowly working on building a resume and working towards managing my ADHD so I can work professionally.
+Working on getting cyber security certifications so I can enter the field professionaly!
 
-Currently Looking Foward to: Internships!!!
+Currently Looking Foward to: Cybersecurity Internships!!!
 - 🔭 I’m currently working on a Poker Game using JavaFX
 - 🌱 I’m currently learning computing theory and making myself hirable
 - 🤔 I’m looking for help with internship opportunities and marketing myself professionally
@@ -16,7 +16,7 @@ Currently Looking Foward to: Internships!!!
 - - @codythefennec on twitter
 - - 101runt52@gmail.com
 - - github.com/codythefennec (HERE)
-- ⚡ Fun fact: When fennec foxes mate they generally mate for life :33 🦊
+- ⚡ Fun fact: Fennec foxes have very fluffy paws to prevent them from getting burnt on the hot sand!
 
 <!--
 **codythefennec/codythefennec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
