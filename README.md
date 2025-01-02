@@ -13,7 +13,6 @@ Currently Looking Foward to: Cybersecurity Internships!!!
 - 🤔 I’m looking for help with internship opportunities and marketing myself professionally
 - 💬 Ask me about silly animals :3
 - 📫 Where to find me? 
-- - @codythefennec on twitter
 - - 101runt52@gmail.com
 - - github.com/codythefennec (HERE)
 - ⚡ Fun fact: Fennec foxes have very fluffy paws to prevent them from getting burnt on the hot sand!
