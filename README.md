@@ -9,7 +9,7 @@ Working on getting cyber security certifications so I can enter the field profes
 
 Currently Looking Foward to: Cybersecurity Internships!!!
 - 🔭 I’m currently working on a Poker Game using JavaFX
-- 🌱 I’m currently learning computing theory and making myself hirable
+- 🌱 Currently learning penetration testing basics, and OWasp top 10 vulnerabilities
 - 🤔 I’m looking for help with internship opportunities and marketing myself professionally
 - 💬 Ask me about silly animals :3
 - 📫 Where to find me? 
